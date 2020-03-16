@@ -31,3 +31,7 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 */
+/*
+Runtime: 52 ms, faster than 93.64% of JavaScript online submissions for Two Sum.
+Memory Usage: 37 MB, less than 8.68% of JavaScript online submissions for Two Sum.
+*/
