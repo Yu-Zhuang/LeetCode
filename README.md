@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode in C and JavaScript
+LeetCode in Go, C, Python and JavaScript
